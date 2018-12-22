@@ -1,6 +1,6 @@
 ## Overview
 
-This is a small C program that will read integers from a text input file and create a red-black tree. It will then output the contents of the tree and the color of each node to an output file. It was created as a project for CS3050
+This is a small C program that will read integers from a text input file and create a red-black tree. It will then output the contents of the tree and the color of each node to an output file. It was created as a project for CS3050.
 
 ## Contents
 
